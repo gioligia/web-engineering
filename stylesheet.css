@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(249, 249, 249);
+  color: rgb(102, 102, 102);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#copyright {
+  text-align: center;
+  font-size: 11px;
+  color: rgb(200, 200, 200);
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: rgb(100, 100, 100);
+  text-decoration: none;
+}
+
+.separator-right {
+  border-right: solid 1px lightgrey;
+}
+
+.separator-top {
+  border-top: solid 1px lightgrey;
+}
+
+.col, .col-2, .col-4, .col-5, .col-8{
+  background-color: white;
+}
+
+table {
+  font-size: 12px;
+}
+
+.icon {
+  width: 25px;
+}
+
+.borderless {
+  border-top: none !important;
+}
+
+.graph-line{
+  width: 100px;
+}
+
+.languages {
+  text-align: right;
+}
+
+.export {
+  float: right;
+}
